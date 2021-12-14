@@ -1,0 +1,5 @@
+# Scrum Improvements
+
+* Fix failing python dependencies - fix build pipeline
+* Fix LAC Server - (unittests dependency)
+* Fix long docker-compose build cycles - (maybe use volumes instead of copying)

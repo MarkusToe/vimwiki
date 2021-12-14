@@ -1,0 +1,3 @@
+= Techniques =
+* [[Mikad Method]]
+* [[Practice Katas]]

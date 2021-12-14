@@ -1,0 +1,6 @@
+- [X] T3529 Exception MachineUpdateService is not defined
+- [X] Git Links teilen
+	- [X] Git For Ages 4 And Up
+- [X] Bump master branch version to v1.2.0
+- [X] Arbeitsstunden aufschreiben
+- [X] Christian/Richard Wizard Tasks anpassen

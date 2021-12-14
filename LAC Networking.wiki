@@ -1,0 +1,38 @@
+= LAC Networking =
+
+== How to find your ip address? ==
+$ ipconfig getifaddr en5
+
+== How to find LAC devices on your network? ==
+$ nmap -T4 --open -p32904 192.168.1.0-255
+
+== How to get devices MAC address? ==
+$ arp -an
+
+
+$ ping
+$ traceroute
+$ netstat
+
+== Hostname ==
+lac-fm3-dev1
+lac-fm3-dev1.local
+lac-fm3-dev1.dmu.local
+
+== Connect to lac-fm3-04 via wireguard ==
+$ ssh lac-vpn-fm3-04
+
+== Get logs on machine ==
+$ journalctl --unit lac_jobctrl.service -b --no-pager | vim -
+$ journalctl --unit lac_jobctrl.service -f
+
+== Get service status ==
+$ systemctl status lac_jobctrl.service
+$ systemctl list-units | grep lac
+$ systemctl status
+
+== Learn ==
+* VPN
+* SSH
+* journalctl
+* systemctl

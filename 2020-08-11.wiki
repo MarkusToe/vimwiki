@@ -1,0 +1,5 @@
+- [X] Untangle git history for wizards
+	- [X] T3474, T3476, T3398, T3397, T3481 - Georg rebase on new-wizard-base
+- [X] Mac Mini fixe IP Adresse vergeben
+- [X] T3526 - recently used blocks bugs
+	- [X] shrinkfactor -1

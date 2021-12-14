@@ -1,0 +1,10 @@
+- [X] iOS App Bundle Katrin/Jo
+	- [X] Phabricator Wiki
+- [X] Rebase T3290
+- [X] Distribute v1.1.1-rc2
+	- [X] Manuel Bescheid geben
+- [X] Fix CSS based solution
+	- [X] Rebase and merge into v1.1.1
+- [X] Betriebsurlaub Ziele Folien
+	- [X] "[[Hard Facts]]" an Jo 
+	- [X] git diff --stat A..B

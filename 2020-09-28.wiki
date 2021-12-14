@@ -1,0 +1,7 @@
+- [X] Jo App Zusammenfassung
+- [X] Investigate Legacy build system DEPRECATED
+- [X] New Wizard IDs - wizard-config.json
+- [X] Local Wizard System Rebase
+- [X] Android Build Alternative
+- [X] Skip Button Bug
+- [X] Tutorial Wizard abbrechen - Skip Button scheint auf

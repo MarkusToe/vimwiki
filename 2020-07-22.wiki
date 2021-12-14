@@ -1,0 +1,2 @@
+- [X] E-Mail Signatur erstellen
+- [X] App QR Codes für Software Test?

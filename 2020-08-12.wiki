@@ -1,0 +1,3 @@
+- [X] Julia Kreutner XCODE Einführung
+- [X] Google Play console account erstellen
+- [X] iOS Distribution Dokumentation

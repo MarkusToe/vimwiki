@@ -1,0 +1,6 @@
+= Practice Katas =
+* https://github.com/emilybache/GildedRose-Refactoring-Kata
+* https://github.com/emilybache/Tennis-Refactoring-Kata
+* https://github.com/sandromancuso/trip-service-kata
+* https://github.com/jbrains/trivia
+* https://github.com/dtanzer/babystepstimer

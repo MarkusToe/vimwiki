@@ -1,0 +1,11 @@
+- [X] Update screens-generator
+- [X] Add test-coverage
+- [X] Update languages FR, ES, IT
+	- [X] Check space before exclamation marks.
+- [X] Build v1.1.2-rc3
+- [X] v1.2.0-dev2 intern releasen
+- [X] v1.2.0-dev version
+	- [X] Changelog
+	- [X] Known Issue
+- [X] v1.2.0 translations - untranslated
+- [X] New translations email

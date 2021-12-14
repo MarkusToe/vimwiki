@@ -1,0 +1,5 @@
+- [X] Update language files
+	- [X] Add locales to README file
+	- [X] Update latest language files
+- [X] Alex Dorsch Antwort
+- [X] Check status of T3482

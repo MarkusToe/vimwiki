@@ -1,0 +1,9 @@
+- [X] Release APP v1.0.4
+	- [X] Android Build
+	- [X] iOS Build
+		- [X] Provisioning Profile von Ivoclar
+		- [X] Zulma anrufen
+		- [X] AppStoreConnect Release
+- [X] T3536 - Remove some material types to choose
+- [X] Rebase all branches based on master
+	- [X] Overtake merging into master from Jo

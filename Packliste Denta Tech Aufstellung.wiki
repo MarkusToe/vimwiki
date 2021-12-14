@@ -1,0 +1,11 @@
+= Packliste Denta Tech Aufstellung =
+- [ ] MacBook
+- [ ] Docking Station
+- [ ] LAN Kabel
+- [ ] USB-C Hub
+- [ ] USB Ethernet Adapter
+- [ ] Testzertifikat
+- [ ] Einreiseformular
+- [ ] Pass
+- [ ] Brille, Linsenmittel, Zahnbürste, Wäsche
+- [ ] Aufladekabel

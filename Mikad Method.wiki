@@ -1,0 +1,14 @@
+= Mikado Method =
+
+1. Grab a piece of paper
+2. Set a goal
+3. Try to achieve the goal within a timebox (5min, 10min, 15min)
+	If you failed:
+		a) Revert your changes (Really. Undo it. It matters. 🔥)
+		b) Think about what's missing
+		c) Write it down on your paper
+		d) Start over from 3) with your subgoal
+	If you succeeded:
+		a) Commit
+		b) Check the goal you achieved on paper
+		c) Start over from 3) with the next unchecked subgoal

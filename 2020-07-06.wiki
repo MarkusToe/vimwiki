@@ -1,0 +1,6 @@
+- [X] T3373 -- Check download finished event
+- [X] Create v1.1.1-rc2 DMU Dist
+    - [X] Remove inappbrowser plugin
+- [X] Create 1.0.4 tag
+- [X] Build and deploy 1.0.4 Ivolcar DIST version
+- [X] CSS solution for tab-navigation

@@ -1,0 +1,10 @@
+- [X] New Language Files - German
+- [X] Zulma anschreiben - vorbereiten auf App Release
+- [X] T3378 - CHANGE_MANUAL_START
+- [X] T3379 - SERVICEDOOR_PREPARE_CM
+- [X] T3518 - TOOLHOLDER_INSERT_RESTART wizard
+- [X] Rebase T3397, T3398, T3399
+- [X] 6,50€ Hannah
+- [X] 5,80€ Leon
+- [X] Robert Waschl anrufen
+- [X] Pomwenger Email Stiegenmaterial

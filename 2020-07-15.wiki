@@ -1,0 +1,3 @@
+- [X] T3454 - Tool change wizard gets stuck
+- [X] T3475 - COOLANT_EMPTY wizard
+- [X] iOS Toolbar Bug

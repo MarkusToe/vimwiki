@@ -1,0 +1,21 @@
+DOING:
+
+== 2021-10-11 ==
+* [O] LAC
+	* [X] Osmani/Emerson Email
+	* [X] DentalAxessDataCollector
+	* [X] Mario zu Lucid Chart einladen
+	* [X] JIRA Tasks definieren
+	* [X] Merge branch mt/access-dental-axess-jobs
+	* [X] Fix Frontend Build Pipeline
+	* [ ] Create "Update DA Jobs in Arcadlab Portal" Task
+	* [ ] Create __init__.py __main__.py setup.py job control service + run method
+* [X] PrograMill One
+	* [X] Build new rc-version
+	* [X] App-Store Texte schicken
+
+
+NOTES:
+* diff cordova prepare/install?
+* outlook adress books?
+

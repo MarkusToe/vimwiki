@@ -1,0 +1,3 @@
+- [X] T3380 - slow animations
+- [X] T3378 - Increase font-size
+- [X] T3380 - Text changes?

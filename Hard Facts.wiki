@@ -1,0 +1,8 @@
+* Neuer Build Prozess
+	* Upgedatete Dependencies
+	* TypeScript: 
+		* Bugs & Errors können durch Static Typing früher gefunden werden
+		* Verbessert Code-Qualität und Code-Verständniss
+	* 113 Unit Tests
+* Wizard-System Refactoring: ~650 LOC gespart 
+	* 9 neue Wizards implementiert
